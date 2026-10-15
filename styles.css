@@ -183,6 +183,7 @@ a{color:var(--accent-dark);}
   display:flex;flex-direction:column;align-items:center;justify-content:center;
   padding:3rem 1.5rem;gap:1rem;
 }
+.lightbox[hidden]{ display:none; }
 .lightbox img{max-height:78vh;max-width:100%;object-fit:contain;}
 .lightbox p{color:#e8e9ee;max-width:720px;text-align:center;margin:0;font-size:.92rem;}
 .lightbox-close{
