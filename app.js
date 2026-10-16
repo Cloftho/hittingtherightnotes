@@ -35,7 +35,7 @@
 
     if (meta.pages) bits.push('<span class="ch-pages">pp. ' + esc(meta.pages) + '</span>');
 
-    return esc(label) + bits.join(" ");
+    return esc(label) + ": " + bits.join(" ");
   }
 
   /* ---- populate the chapter dropdown from the data ---- */
