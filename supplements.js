@@ -47,7 +47,7 @@ const SUPPLEMENTS = [
     type: "video",
     title: "Young Mr. Lincoln: [cue name]",
     description: "[What to listen for]",
-    src: "https://www.youtube.com/embed/ZOQnGpF3sic?start=327"
+    src: "https://www.youtube.com/embed/AJWYlUTa_70"
   },
 
   /* ---------- Chapter 4: Casablanca ---------- */
