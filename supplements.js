@@ -118,6 +118,15 @@ const SUPPLEMENTS = [
     src: "https://www.youtube.com/embed/r3YKdsrnqaM"
   },
 
+  /* ---------- Chapter 15: BlacKkKlansman ---------- */
+{
+  chapter: 15,
+  page: 185,
+  type: "video",
+  title: "BlacKkKlansman: [cue name]",
+  description: "[What to listen for]",
+  src: "https://www.youtube.com/embed/bY-vpxGexhk"
+},
   /* ---------- Chapter 17: Directors Who Compose ---------- */
   {
     chapter: 17,
