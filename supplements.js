@@ -70,6 +70,17 @@ const SUPPLEMENTS = [
     src: "https://www.youtube.com/embed/LP0g8MbXExA"
   },
 
+   
+  /* ---------- Chapter 8: Once Upon a Time in the West ---------- */
+  {
+    chapter: 8,
+    page: 103,
+    type: "video",
+    title: "Once Upon a Time in the West: [cue name]",
+    description: "[What to listen for]",
+    src: "https://youtu.be/FIf64FS61r0"
+  },
+   
   /* ---------- Chapter 10: Jaws ---------- */
   {
     chapter: 10,
