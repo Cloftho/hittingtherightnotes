@@ -98,7 +98,7 @@ const SUPPLEMENTS = [
     type: "video",
     title: "Blade Runner: [cue name]",
     description: "[What to listen for]",
-    src: "https://www.youtube.com/embed/pGzl5Voev6w?start=23"
+    src: "https://youtu.be/xhtSD9zAqi8"
   },
 
   /* ---------- Chapter 12: The Color Purple ---------- */
