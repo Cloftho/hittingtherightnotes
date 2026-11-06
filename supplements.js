@@ -63,11 +63,21 @@ const SUPPLEMENTS = [
   /* ---------- Chapter 5: Sunset Boulevard ---------- */
   {
     chapter: 5,
-    page: 61,
+    page: 53,
     type: "video",
     title: "Sunset Boulevard: [cue name]",
     description: "[What to listen for]",
     src: "https://www.youtube.com/embed/LP0g8MbXExA"
+  },
+
+  /* ---------- Chapter 6: North by Northwest ---------- */
+  {
+    chapter: 6,
+    page: 67,
+    type: "video",
+    title: "North by Northwest: [cue name]",
+    description: "[What to listen for]",
+    src: "https://youtu.be/ya1XkYB3as4"
   },
 
    
