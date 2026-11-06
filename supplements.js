@@ -81,6 +81,16 @@ const SUPPLEMENTS = [
     src: "https://youtu.be/FIf64FS61r0"
   },
    
+     /* ---------- Chapter 9: Chinatown ---------- */
+  {
+    chapter: 9,
+    page: 109,
+    type: "video",
+    title: "Chinatown: [cue name]",
+    description: "[What to listen for]",
+    src: "https://youtu.be/8qPlxSg_vTs"
+  },
+
   /* ---------- Chapter 10: Jaws ---------- */
   {
     chapter: 10,
