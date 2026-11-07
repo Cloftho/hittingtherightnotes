@@ -90,10 +90,17 @@ const SUPPLEMENTS = [
     chapter: 8,
     page: 103,
     type: "video",
-    title: "Once Upon a Time in the West",
+    title: "Once Upon a Time in the West: Cue 1",
     src: "https://www.youtube.com/embed/FIf64FS61r0"
   },
-   
+
+  {
+    chapter: 8,
+    page: 103,
+    type: "video",
+    title: "Once Upon a Time in the West: Cue 2",
+    src: "https://www.youtube.com/embed/GN93fT8AGls"
+  },
      /* ---------- Chapter 9: Chinatown ---------- */
   {
     chapter: 9,
