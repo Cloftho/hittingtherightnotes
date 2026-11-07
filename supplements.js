@@ -70,7 +70,7 @@ const SUPPLEMENTS = [
   /* ---------- Chapter 6: North by Northwest ---------- */
   {
     chapter: 6,
-    page: 67,
+    page: 77,
     type: "video",
     title: "North by Northwest",
     src: "https://www.youtube.com/embed/ya1XkYB3as4"
@@ -90,7 +90,7 @@ const SUPPLEMENTS = [
     chapter: 8,
     page: 103,
     type: "video",
-    title: "Once Upon a Time in the West: Cue 1",
+    title: "Once Upon a Time in the West: Part 1",
     src: "https://www.youtube.com/embed/IXuMMnopwJI"
   },
 
@@ -98,13 +98,13 @@ const SUPPLEMENTS = [
     chapter: 8,
     page: 103,
     type: "video",
-    title: "Once Upon a Time in the West: Cue 2",
+    title: "Once Upon a Time in the West: Part 2",
     src: "https://www.youtube.com/embed/GN93fT8AGls"
   },
      /* ---------- Chapter 9: Chinatown ---------- */
   {
     chapter: 9,
-    page: 109,
+    page: 115,
     type: "video",
     title: "Chinatown",
     src: "https://www.youtube.com/embed/8qPlxSg_vTs"
@@ -142,14 +142,14 @@ const SUPPLEMENTS = [
     chapter: 13,
     page: 163,
     type: "video",
-    title: "Emma: Cue 1",
+    title: "Emma: Part 1",
     src: "https://www.youtube.com/embed/15RNLc1CymA"
   },
   {
     chapter: 13,
     page: 163,
     type: "video",
-    title: "Emma: Cue 2",
+    title: "Emma: Part 2",
     src: "https://www.youtube.com/embed/r3YKdsrnqaM"
   },
 
