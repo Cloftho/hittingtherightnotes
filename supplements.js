@@ -73,7 +73,7 @@ const SUPPLEMENTS = [
     page: 67,
     type: "video",
     title: "North by Northwest",
-    src: "https://youtu.be/ya1XkYB3as4"
+    src: "https://www.youtube.com/embed/ya1XkYB3as4"
   },
    
  /* ---------- Chapter 7: Magnificent Seven ---------- */
@@ -82,7 +82,7 @@ const SUPPLEMENTS = [
     page: 87,
     type: "video",
     title: "Magnificent Seven",
-    src: "https://youtu.be/hDKP6VCgmtw"
+    src: "https://www.youtube.com/embed/hDKP6VCgmtw"
   },
    
   /* ---------- Chapter 8: Once Upon a Time in the West ---------- */
@@ -91,7 +91,7 @@ const SUPPLEMENTS = [
     page: 103,
     type: "video",
     title: "Once Upon a Time in the West",
-    src: "https://youtu.be/FIf64FS61r0"
+    src: "https://www.youtube.com/embed/FIf64FS61r0"
   },
    
      /* ---------- Chapter 9: Chinatown ---------- */
@@ -100,7 +100,7 @@ const SUPPLEMENTS = [
     page: 109,
     type: "video",
     title: "Chinatown",
-    src: "https://youtu.be/8qPlxSg_vTs"
+    src: "https://www.youtube.com/embed/8qPlxSg_vTs"
   },
 
   /* ---------- Chapter 10: Jaws ---------- */
@@ -118,7 +118,7 @@ const SUPPLEMENTS = [
     page: 139,
     type: "video",
     title: "Blade Runner",
-    src: "https://youtu.be/xhtSD9zAqi8"
+    src: "https://www.youtube.com/embed/xhtSD9zAqi8"
   },
 
   /* ---------- Chapter 12: The Color Purple ---------- */
@@ -161,7 +161,7 @@ const SUPPLEMENTS = [
   page: 202,
   type: "video",
   title: "Joker",
-  src: "https://youtu.be/hsqSRBbkqIw"
+  src: "https://www.youtube.com/embed/hsqSRBbkqIw"
 },
   /* ---------- Chapter 17: Directors Who Compose ---------- */
   {
@@ -169,14 +169,14 @@ const SUPPLEMENTS = [
     page: 209,
     type: "video",
     title: "Mystic River",
-    src: "https://youtu.be/Pz8zwhzInyE"
+    src: "https://www.youtube.com/embed/Pz8zwhzInyE"
   },
   {
     chapter: 17,
     page: 210,
     type: "video",
     title: "Halloween",
-    src: "https://youtu.be/XH7QIKvOab4?si=PQS0xaTZxvPXuZly"
+    src: "https://www.youtube.com/embed/XH7QIKvOab4"
   },
     {
     chapter: 17,
