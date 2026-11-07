@@ -40,6 +40,30 @@ const CHAPTERS = {
 
 const SUPPLEMENTS = [
 
+     /* ---------- Chapter 2: Adventures of Robin Hood ---------- */
+  {
+    chapter: 2,
+    page: 27,
+    type: "video",
+    title: "Adventures of Robin Hood Section 1",
+    src: "https://www.youtube.com/embed/R0Ca0Qa-xZg"
+  },
+
+    {
+    chapter: 2,
+    page: 29,
+    type: "video",
+    title: "Adventures of Robin Hood Section 2",
+    src: "https://www.youtube.com/embed/DHHDkkjJwUs"
+  },
+    {
+    chapter: 2,
+    page: 31,
+    type: "video",
+    title: "Adventures of Robin Hood Section 3",
+    src: "https://www.youtube.com/embed/odR7uRFnVjc"
+  },
+   
   /* ---------- Chapter 3: Young Mr. Lincoln ---------- */
   {
     chapter: 3,
@@ -142,17 +166,26 @@ const SUPPLEMENTS = [
     chapter: 13,
     page: 163,
     type: "video",
-    title: "Emma: Part 1",
-    src: "https://www.youtube.com/embed/15RNLc1CymA"
-  },
-  {
-    chapter: 13,
-    page: 163,
-    type: "video",
-    title: "Emma: Part 2",
-    src: "https://www.youtube.com/embed/r3YKdsrnqaM"
+    title: "Emma",
+    src: "https://www.youtube.com/embed/wIyy03a9Ts0"
   },
 
+     /* ---------- Chapter 14: Batman ---------- */
+  {
+    chapter: 14,
+    page: 163,
+    type: "video",
+    title: "Batman: Part 1",
+    src: "https://www.youtube.com/embed/a-xbfvXDL5o"
+  },
+    {
+    chapter: 14,
+    page: 163,
+    type: "video",
+    title: "Batman: Part 2",
+    src: "https://www.youtube.com/embed/rIu1sMhVSzg"
+  },
+   
   /* ---------- Chapter 15: BlacKkKlansman ---------- */
 {
   chapter: 15,
