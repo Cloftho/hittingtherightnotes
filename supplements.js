@@ -79,7 +79,16 @@ const SUPPLEMENTS = [
     description: "[What to listen for]",
     src: "https://youtu.be/ya1XkYB3as4"
   },
-
+   
+ /* ---------- Chapter 7: Magnificent Seven ---------- */
+  {
+    chapter: 7,
+    page: 87,
+    type: "video",
+    title: "Magnificent seven: [cue name]",
+    description: "[What to listen for]",
+    src: "https://youtu.be/hDKP6VCgmtw"
+  },
    
   /* ---------- Chapter 8: Once Upon a Time in the West ---------- */
   {
@@ -157,6 +166,16 @@ const SUPPLEMENTS = [
   title: "BlacKkKlansman: [cue name]",
   description: "[What to listen for]",
   src: "https://www.youtube.com/embed/bY-vpxGexhk"
+},
+   
+     /* ---------- Chapter 16: Joker ---------- */
+{
+  chapter: 16,
+  page: 202,
+  type: "video",
+  title: "Joker: [cue name]",
+  description: "[What to listen for]",
+  src: "https://youtu.be/hsqSRBbkqIw"
 },
   /* ---------- Chapter 17: Directors Who Compose ---------- */
   {
