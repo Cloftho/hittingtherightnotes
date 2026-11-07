@@ -163,15 +163,23 @@ const SUPPLEMENTS = [
     chapter: 17,
     page: 209,
     type: "video",
-    title: "[Directors Who Compose]: [cue name]",
+    title: "Mystic River: [cue name]",
     description: "[What to listen for]",
-    src: "https://www.youtube.com/embed/s-vygw8z14E"
+    src: "https://youtu.be/Pz8zwhzInyE"
   },
   {
     chapter: 17,
+    page: 210,
+    type: "video",
+    title: "Halloween: [cue name]",
+    description: "[What to listen for]",
+    src: "https://youtu.be/XH7QIKvOab4?si=PQS0xaTZxvPXuZly"
+  },
+    {
+    chapter: 17,
     page: 212,
     type: "video",
-    title: "[Directors Who Compose]: [cue name]",
+    title: "The Big Lebowski: [cue name]",
     description: "[What to listen for]",
     src: "https://www.youtube.com/embed/YPfdSu6wO08"
   },
@@ -179,7 +187,7 @@ const SUPPLEMENTS = [
     chapter: 17,
     page: 214,
     type: "video",
-    title: "[Directors Who Compose]: [cue name]",
+    title: "Pulp Fiction: [cue name]",
     description: "[What to listen for]",
     src: "https://www.youtube.com/embed/DDMJSg0a5u0"
   }
