@@ -45,7 +45,7 @@ const SUPPLEMENTS = [
     chapter: 2,
     page: 27,
     type: "video",
-    title: "Adventures of Robin Hood Section 1",
+    title: "Adventures of Robin Hood: Part 1",
     src: "https://www.youtube.com/embed/R0Ca0Qa-xZg"
   },
 
@@ -53,14 +53,14 @@ const SUPPLEMENTS = [
     chapter: 2,
     page: 29,
     type: "video",
-    title: "Adventures of Robin Hood Section 2",
+    title: "Adventures of Robin Hood: Part 2",
     src: "https://www.youtube.com/embed/DHHDkkjJwUs"
   },
     {
     chapter: 2,
     page: 31,
     type: "video",
-    title: "Adventures of Robin Hood Section 3",
+    title: "Adventures of Robin Hood: Part 3",
     src: "https://www.youtube.com/embed/odR7uRFnVjc"
   },
    
