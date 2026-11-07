@@ -45,8 +45,7 @@ const SUPPLEMENTS = [
     chapter: 3,
     page: 37,
     type: "video",
-    title: "Young Mr. Lincoln: [cue name]",
-    description: "[What to listen for]",
+    title: "Young Mr. Lincoln",
     src: "https://www.youtube.com/embed/AJWYlUTa_70"
   },
 
@@ -55,8 +54,7 @@ const SUPPLEMENTS = [
     chapter: 4,
     page: 49,
     type: "video",
-    title: "Casablanca: [cue name]",
-    description: "[What to listen for]",
+    title: "Casablanca",
     src: "https://www.youtube.com/embed/yOliU7X1fEg?start=50"
   },
 
@@ -65,8 +63,7 @@ const SUPPLEMENTS = [
     chapter: 5,
     page: 53,
     type: "video",
-    title: "Sunset Boulevard: [cue name]",
-    description: "[What to listen for]",
+    title: "Sunset Boulevard",
     src: "https://www.youtube.com/embed/LP0g8MbXExA"
   },
 
@@ -75,8 +72,7 @@ const SUPPLEMENTS = [
     chapter: 6,
     page: 67,
     type: "video",
-    title: "North by Northwest: [cue name]",
-    description: "[What to listen for]",
+    title: "North by Northwest",
     src: "https://youtu.be/ya1XkYB3as4"
   },
    
@@ -85,8 +81,7 @@ const SUPPLEMENTS = [
     chapter: 7,
     page: 87,
     type: "video",
-    title: "Magnificent seven: [cue name]",
-    description: "[What to listen for]",
+    title: "Magnificent Seven",
     src: "https://youtu.be/hDKP6VCgmtw"
   },
    
@@ -95,8 +90,7 @@ const SUPPLEMENTS = [
     chapter: 8,
     page: 103,
     type: "video",
-    title: "Once Upon a Time in the West: [cue name]",
-    description: "[What to listen for]",
+    title: "Once Upon a Time in the West",
     src: "https://youtu.be/FIf64FS61r0"
   },
    
@@ -105,8 +99,7 @@ const SUPPLEMENTS = [
     chapter: 9,
     page: 109,
     type: "video",
-    title: "Chinatown: [cue name]",
-    description: "[What to listen for]",
+    title: "Chinatown",
     src: "https://youtu.be/8qPlxSg_vTs"
   },
 
@@ -115,8 +108,7 @@ const SUPPLEMENTS = [
     chapter: 10,
     page: 127,
     type: "video",
-    title: "Jaws: [cue name]",
-    description: "[What to listen for]",
+    title: "Jaws",
     src: "https://www.youtube.com/embed/enj42k9RWg4"
   },
 
@@ -125,8 +117,7 @@ const SUPPLEMENTS = [
     chapter: 11,
     page: 139,
     type: "video",
-    title: "Blade Runner: [cue name]",
-    description: "[What to listen for]",
+    title: "Blade Runner",
     src: "https://youtu.be/xhtSD9zAqi8"
   },
 
@@ -135,8 +126,7 @@ const SUPPLEMENTS = [
     chapter: 12,
     page: 151,
     type: "video",
-    title: "The Color Purple: [cue name]",
-    description: "[What to listen for]",
+    title: "The Color Purple",
     src: "https://www.youtube.com/embed/uEv_d6zAYHk"
   },
 
@@ -145,16 +135,14 @@ const SUPPLEMENTS = [
     chapter: 13,
     page: 163,
     type: "video",
-    title: "Emma: Cue 1 [or cue name]",
-    description: "[What to listen for]",
+    title: "Emma: Cue 1",
     src: "https://www.youtube.com/embed/15RNLc1CymA"
   },
   {
     chapter: 13,
     page: 163,
     type: "video",
-    title: "Emma: Cue 2 [or cue name]",
-    description: "[What to listen for]",
+    title: "Emma: Cue 2",
     src: "https://www.youtube.com/embed/r3YKdsrnqaM"
   },
 
@@ -163,8 +151,7 @@ const SUPPLEMENTS = [
   chapter: 15,
   page: 185,
   type: "video",
-  title: "BlacKkKlansman: [cue name]",
-  description: "[What to listen for]",
+  title: "BlacKkKlansman",
   src: "https://www.youtube.com/embed/bY-vpxGexhk"
 },
    
@@ -173,8 +160,7 @@ const SUPPLEMENTS = [
   chapter: 16,
   page: 202,
   type: "video",
-  title: "Joker: [cue name]",
-  description: "[What to listen for]",
+  title: "Joker",
   src: "https://youtu.be/hsqSRBbkqIw"
 },
   /* ---------- Chapter 17: Directors Who Compose ---------- */
@@ -182,32 +168,28 @@ const SUPPLEMENTS = [
     chapter: 17,
     page: 209,
     type: "video",
-    title: "Mystic River: [cue name]",
-    description: "[What to listen for]",
+    title: "Mystic River",
     src: "https://youtu.be/Pz8zwhzInyE"
   },
   {
     chapter: 17,
     page: 210,
     type: "video",
-    title: "Halloween: [cue name]",
-    description: "[What to listen for]",
+    title: "Halloween",
     src: "https://youtu.be/XH7QIKvOab4?si=PQS0xaTZxvPXuZly"
   },
     {
     chapter: 17,
     page: 212,
     type: "video",
-    title: "The Big Lebowski: [cue name]",
-    description: "[What to listen for]",
+    title: "The Big Lebowski",
     src: "https://www.youtube.com/embed/YPfdSu6wO08"
   },
   {
     chapter: 17,
     page: 214,
     type: "video",
-    title: "Pulp Fiction: [cue name]",
-    description: "[What to listen for]",
+    title: "Pulp Fiction",
     src: "https://www.youtube.com/embed/DDMJSg0a5u0"
   }
 
