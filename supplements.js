@@ -91,7 +91,7 @@ const SUPPLEMENTS = [
     page: 103,
     type: "video",
     title: "Once Upon a Time in the West: Cue 1",
-    src: "https://www.youtube.com/embed/FIf64FS61r0"
+    src: "https://www.youtube.com/embed/IXuMMnopwJI"
   },
 
   {
